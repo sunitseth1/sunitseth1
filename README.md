@@ -16,7 +16,7 @@ I really enjoy learning new things and connecting with people across a range of 
 
 <h1 align="center">:round_pushpin: Profile visitors</h1>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/ritik955/count.svg">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/sunitseth1/count.svg">
 </div>
 <br>
 <br>
