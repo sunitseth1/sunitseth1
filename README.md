@@ -29,7 +29,7 @@ I really enjoy learning new things and connecting with people across a range of 
 - 🤔 Looking for open source to contribute
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 How to reach me **ritikgupta866000@gmail.com**
+- 📫 How to reach me **sunitseth16@gmail.com**
 
 ### My Absolute Favorites:
 
