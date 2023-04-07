@@ -104,13 +104,13 @@ I really enjoy learning new things and connecting with people across a range of 
 <!-- GitHub Readme Streak Stats - https://github.com/ritik955/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/sunitseth1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ritik955's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik955&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sunitseth1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sunitseth1&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
   
   <h2 align="center">Activity Graph 📈</h2>
   <br/>
-<a href="https://github.com/sunitseth1/github-readme-activity-graph"><img alt="ritik's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ritik955&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
+<a href="https://github.com/sunitseth1/github-readme-activity-graph"><img alt="ritik's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=sunitseth1&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 
 
 
