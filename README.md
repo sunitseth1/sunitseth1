@@ -3,7 +3,7 @@
 ![Hello](hello.svg)
 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Ritik Gupta</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Sunit Seth</h1>
 <h3 align="center">Upcoming Full Stack developer|| Computer Science Undergrad 👨🏾‍🎓 || Campus Business Manager at PrepBytes || Amazon Kindle || Learning 👨‍💻 MERN Stack</h3>
 <h4 align="center">My passion lies in solving complex problems with tailored data and algorithms.I love writing code. Ever since writing my first program in java and manipulating it to produce a desired output, I have been obsessed with the idea of using software to solve practical problem. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
 <br>
@@ -20,7 +20,7 @@ I really enjoy learning new things and connecting with people across a range of 
 </div>
 <br>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritik955" alt="ritik955" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritik955" alt="sunitseth1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ritikgupta121" target="blank"><img src="https://img.shields.io/twitter/follow/ritikgupta121?logo=twitter&style=for-the-badge" alt="ritikgupta121" /></a> </p>
 
