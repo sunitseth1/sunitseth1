@@ -9,7 +9,7 @@
 <br>
   <br>
   <br>
-I really enjoy learning new things and connecting with people across a range of industries, so don't hesitate to reach out if you'd like to get in touch: Email: ritikgupta866000@gmail.com</h4>
+I really enjoy learning new things and connecting with people across a range of industries, so don't hesitate to reach out if you'd like to get in touch: Email: sunitseth16@gmail.com</h4>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -22,7 +22,7 @@ I really enjoy learning new things and connecting with people across a range of 
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritik955" alt="sunitseth1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ritikgupta121" target="blank"><img src="https://img.shields.io/twitter/follow/ritikgupta121?logo=twitter&style=for-the-badge" alt="ritikgupta121" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SunitSeth2" target="blank"><img src="https://twitter.com/SunitSeth2/photo" alt="sunitseth" /></a> </p>
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
@@ -39,7 +39,7 @@ I really enjoy learning new things and connecting with people across a range of 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ritik955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ritik955" height="30" width="40" /></a>
-<a href="https://twitter.com/ritikgupta121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritikgupta121" height="30" width="40" /></a>
+<a href="https://twitter.com/SunitSeth2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritikgupta121" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ritikgupta9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritikgupta9" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19718957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19718957" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100014641991338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100014641991338" height="30" width="40" /></a>
