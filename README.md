@@ -20,7 +20,7 @@ I really enjoy learning new things and connecting with people across a range of 
 </div>
 <br>
 <br>
-<p align="left"> <a href="https://github.com/sunitseth1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunitseth1" alt="sunitseth1" /></a> </p>
+<p align="left"> <a href="https://github.com/sunitseth1"><img src="https://github-profile-trophy.vercel.app/?username=sunitseth1" alt="sunitseth1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/SunitSeth2" target="blank"><img src="https://twitter.com/SunitSeth2/photo" alt="sunitseth" /></a> </p>
 
