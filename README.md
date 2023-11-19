@@ -110,7 +110,7 @@ I really enjoy learning new things and connecting with people across a range of 
   
   <h2 align="center">Activity Graph 📈</h2>
   <br/>
-<a href="https://github.com/sunitseth1/github-readme-activity-graph"><img alt="ritik's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=sunitseth1&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
+<a href="https://github.com/sunitseth1/github-readme-activity-graph"><img alt="sunit's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=sunitseth1&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 
 
 
